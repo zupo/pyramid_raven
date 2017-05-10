@@ -43,6 +43,7 @@ setup(
     install_requires=[
         'pyramid',
         'pyramid_layout',
+        'pyramid_mako',
         'raven',
     ],
     setup_requires=[
